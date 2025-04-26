@@ -13,17 +13,18 @@ The following **required** functionality is completed:
 - [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
-## Video Walkthrough
+## App Brainstorming
 
-<div>
-    <a href="https://www.loom.com/share/89c7f5b43228464c9ced214b894881b2">
-    </a>
-    <a href="https://www.loom.com/share/89c7f5b43228464c9ced214b894881b2">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/89c7f5b43228464c9ced214b894881b2-1629b5878851d5f2-full-play.gif">
-    </a>
-  </div>
+**Favorite Apps & Features:**
 
-## App Brainstorming (Step 4)
+- **Instagram:** I love how easy it is to share photos and videos instantly. The Stories feature makes it fun to post updates that disappear after 24 hours, and direct messaging makes it simple to keep in touch with friends.
+- **Spotify:** Personalized playlists and recommendations help me discover new music. I also really like the offline listening mode, which lets me enjoy my favorite songs without using data.
+- **Duolingo:** The gamified learning experience keeps me motivated with daily streaks and rewards. The app’s reminders and interactive lessons make language learning feel easy and accessible.
+
+**App Idea:**  
+I’d like to build an app that helps students organize group study sessions and share notes easily. The app would let users create study groups, chat, and collaborate on shared notes all in one place.
+
+### Other Ideas for TapToColor
 
 - The app could be expanded to let users customize the color range or choose favorite colors.
 - Adding animations or sound effects on color change would make it more interactive.
